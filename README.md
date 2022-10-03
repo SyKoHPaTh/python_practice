@@ -1,2 +1,2 @@
 # python_practice
-A collection of small direct-funtionaly Python programs
+A collection of small direct-functionality Python programs
